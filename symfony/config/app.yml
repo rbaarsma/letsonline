@@ -1,0 +1,2 @@
+all:
+  password_secret:      $ecr==t12n1124d@@f

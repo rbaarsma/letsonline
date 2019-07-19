@@ -1,0 +1,36 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/07-Databases
+
+prod:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=mysql6.mijnhostingpartner.nl;dbname=Baarsma_letsonline
+      username: Baarsma_lets
+      password: dUH@#s82KK
+
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=localhost;dbname=letsonline_test
+      username: root
+      password:
+
+dev:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=mysql6.mijnhostingpartner.nl;dbname=Baarsma_letsonline
+      username: Baarsma_lets
+      password: dUH@#s82KK
+      
+
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=localhost;dbname=letsonline
+      username: root
+      password:
+      attributes: {tblname_format: "lets_%s"}

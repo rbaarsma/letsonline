@@ -1,0 +1,18 @@
+edit:
+  credentials: manage_users
+delete:
+  credentials: manage_users
+new:
+  credentials: manage_users
+create:
+  credentials: manage_users
+activate:
+  credentials: manage_users
+deactivate:
+  credentials: manage_users
+
+
+
+all:
+  is_secure: true
+  credentials: view_users

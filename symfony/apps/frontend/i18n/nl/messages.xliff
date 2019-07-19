@@ -1,0 +1,1112 @@
+<?xml version="1.0" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd"><xliff version="1.0">
+  <file source-language="EN" target-language="nl" datatype="plaintext" original="messages" date="2010-12-16T15:18:17Z" product-name="messages" xml:space="default">
+    <header></header>
+    <body>
+      <trans-unit id="1" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Transactions</source>
+        <target state="exact-match:translated" xml:lang="nl">Betalingen</target>
+      </trans-unit>
+      <trans-unit id="2" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Overview</source>
+        <target state="exact-match:translated" xml:lang="nl">Overzicht</target>
+      </trans-unit>
+      <trans-unit id="3" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send Payment</source>
+        <target state="exact-match:translated" xml:lang="nl">Doe Betaling</target>
+      </trans-unit>
+      <trans-unit id="4" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send Reminder</source>
+        <target state="exact-match:translated" xml:lang="nl">Herinnering</target>
+      </trans-unit>
+      <trans-unit id="5" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Find Transactions</source>
+        <target state="exact-match:translated" xml:lang="nl">Zoek Betalingen</target>
+      </trans-unit>
+      <trans-unit id="6" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your Account</source>
+        <target state="exact-match:translated" xml:lang="nl">Jouw Account</target>
+      </trans-unit>
+      <trans-unit id="7" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your Offers &amp; Requests</source>
+        <target state="exact-match:translated" xml:lang="nl">Jouw Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="8" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Account Data</source>
+        <target state="exact-match:translated" xml:lang="nl">Gegevens</target>
+      </trans-unit>
+      <trans-unit id="9" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Public Profile</source>
+        <target state="exact-match:translated" xml:lang="nl">Publiek Profiel</target>
+      </trans-unit>
+      <trans-unit id="10" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Change E-mail</source>
+        <target state="exact-match:translated" xml:lang="nl">Verander E-mail</target>
+      </trans-unit>
+      <trans-unit id="11" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Change Password</source>
+        <target state="exact-match:translated" xml:lang="nl">Wijzig Wachtwoord</target>
+      </trans-unit>
+      <trans-unit id="12" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Logout</source>
+        <target state="exact-match:translated" xml:lang="nl">Log uit</target>
+      </trans-unit>
+      <trans-unit id="13" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Trade Circle</source>
+        <target state="exact-match:translated" xml:lang="nl">Ruilkring</target>
+      </trans-unit>
+      <trans-unit id="14" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Offers &amp; Requests</source>
+        <target state="exact-match:translated" xml:lang="nl">Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="15" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Member List</source>
+        <target state="exact-match:translated" xml:lang="nl">Ledenlijst</target>
+      </trans-unit>
+      <trans-unit id="16" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Photo Album</source>
+        <target state="x-user:translated" xml:lang="nl">Foto Album</target>
+      </trans-unit>
+      <trans-unit id="17" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send Email</source>
+        <target state="exact-match:translated" xml:lang="nl">Verzend E-mail</target>
+      </trans-unit>
+      <trans-unit id="18" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Admin</source>
+        <target state="exact-match:translated" xml:lang="nl">Admin</target>
+      </trans-unit>
+      <trans-unit id="19" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Add user</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuw lid</target>
+      </trans-unit>
+      <trans-unit id="20" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Manage</source>
+        <target state="exact-match:translated" xml:lang="nl">Beheer</target>
+      </trans-unit>
+      <trans-unit id="21" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Addresslist</source>
+        <target state="exact-match:translated" xml:lang="nl">Adreslijst</target>
+      </trans-unit>
+      <trans-unit id="22" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>LETS Totals</source>
+        <target state="exact-match:translated" xml:lang="nl">LETS Totalen</target>
+      </trans-unit>
+      <trans-unit id="23" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Change identity</source>
+        <target state="exact-match:translated" xml:lang="nl">Verander Identiteit</target>
+      </trans-unit>
+      <trans-unit id="24" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Welcome %name%</source>
+        <target state="exact-match:translated" xml:lang="nl">Welkom %name%</target>
+      </trans-unit>
+      <trans-unit id="25" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>account</source>
+        <target state="exact-match:translated" xml:lang="nl">persoonlijk</target>
+      </trans-unit>
+      <trans-unit id="26" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>logout</source>
+        <target state="exact-match:translated" xml:lang="nl">log uit</target>
+      </trans-unit>
+      <trans-unit id="27" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Balance</source>
+        <target state="exact-match:translated" xml:lang="nl">Balans</target>
+      </trans-unit>
+      <trans-unit id="28" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please login first</source>
+        <target state="exact-match:translated" xml:lang="nl">Log eerst in</target>
+      </trans-unit>
+      <trans-unit id="29" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Totals</source>
+        <target state="x-user:translated" xml:lang="nl">Totalen</target>
+      </trans-unit>
+      <trans-unit id="30" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Search</source>
+        <target state="x-user:translated" xml:lang="nl">Zoek</target>
+      </trans-unit>
+      <trans-unit id="31" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Menu</source>
+        <target state="x-user:translated" xml:lang="nl">Menu</target>
+      </trans-unit>
+      <trans-unit id="32" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Save</source>
+        <target state="exact-match:translated" xml:lang="nl">Opslaan</target>
+      </trans-unit>
+      <trans-unit id="33" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Info</source>
+        <target state="x-user:translated" xml:lang="nl">Info</target>
+      </trans-unit>
+      <trans-unit id="34" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>total</source>
+        <target state="exact-match:translated" xml:lang="nl">totaal</target>
+      </trans-unit>
+      <trans-unit id="35" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>reset search</source>
+        <target state="x-user:translated" xml:lang="nl">reset zoekopdracht</target>
+      </trans-unit>
+      <trans-unit id="36" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>First page</source>
+        <target state="exact-match:translated" xml:lang="nl">Eerste pagina</target>
+      </trans-unit>
+      <trans-unit id="37" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Previous page</source>
+        <target state="exact-match:translated" xml:lang="nl">vorige pagina</target>
+      </trans-unit>
+      <trans-unit id="38" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Next page</source>
+        <target state="exact-match:translated" xml:lang="nl">Volgende pagina</target>
+      </trans-unit>
+      <trans-unit id="39" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Last page</source>
+        <target state="exact-match:translated" xml:lang="nl">Laatste pagina</target>
+      </trans-unit>
+      <trans-unit id="40" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>In this overview you will be able to find all transactions that you have ever made.&lt;br/&gt;&lt;br/&gt;Find specific transactions by using the &lt;b&gt;Search&lt;/b&gt; on the far left.</source>
+        <target state="x-user:new" xml:lang="nl">In dit overzicht kun je alle bonnen vinden die je hebt gemaakt en ontvangen.&lt;br/&gt;&lt;br/&gt;Vind specifieke bonnen met de &lt;b&gt;Zoek&lt;/b&gt; functie aan de linker kant.</target>
+      </trans-unit>
+      <trans-unit id="41" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>On this screen is an overview of all recent transactions. If you have any reminders to accept they will be at the top under 'reminders to accept'. You can accept these by clicking on details (the maginfying glass) and using the &lt;b&gt;Confirm&lt;/b&gt; button.</source>
+        <target state="x-user:translated" xml:lang="nl">Hier zie je een overzicht van alle recente bonnen. Als je herinneringen hebt om te accepteren staan die helemaal bovenaan onder 'te accepteren herinneringen'. Je kunt deze accepteren door op details te klikken (via het vergrootglas) en dan de &lt;b&gt;Accepteer&lt;/b&gt; knop te gebruiken.</target>
+      </trans-unit>
+      <trans-unit id="42" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Click on any photo to see that user's profile.</source>
+        <target state="x-user:translated" xml:lang="nl">Klik op een foto om het profiel van dat lid te zien.</target>
+      </trans-unit>
+      <trans-unit id="43" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The e-mail sent by the system will automatically contain a footer notifying the receiver that the e-mail has been sent through the LETSOnline system.</source>
+        <target state="x-user:translated" xml:lang="nl">De e-mail die je verzend heeft automatisch een voettekst waardoor de ontvanger ziet dat de e-mail is gestuurd door het LETSOnline systeem.</target>
+      </trans-unit>
+      <trans-unit id="44" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You have changed your identity to %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Je hebt je identiteit veranderd naar %user%</target>
+      </trans-unit>
+      <trans-unit id="45" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Reactivated user: %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Gebruiker heractiveerd: %user%</target>
+      </trans-unit>
+      <trans-unit id="46" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Deactivated user: %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Gebruiker gedeactiveerd: %user%</target>
+      </trans-unit>
+      <trans-unit id="47" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Data saved</source>
+        <target state="exact-match:translated" xml:lang="nl">Gegevens opgeslagen</target>
+      </trans-unit>
+      <trans-unit id="48" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Address List</source>
+        <target state="exact-match:translated" xml:lang="nl">Adreslijst</target>
+      </trans-unit>
+      <trans-unit id="49" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Name</source>
+        <target state="exact-match:translated" xml:lang="nl">Naam</target>
+      </trans-unit>
+      <trans-unit id="50" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Street</source>
+        <target state="exact-match:translated" xml:lang="nl">Straat</target>
+      </trans-unit>
+      <trans-unit id="51" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Zip code</source>
+        <target state="exact-match:translated" xml:lang="nl">Postcode</target>
+      </trans-unit>
+      <trans-unit id="52" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Phone</source>
+        <target state="exact-match:translated" xml:lang="nl">Telefoon</target>
+      </trans-unit>
+      <trans-unit id="53" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Edit User</source>
+        <target state="exact-match:translated" xml:lang="nl">Bewerk Lid</target>
+      </trans-unit>
+      <trans-unit id="54" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>E-mail users</source>
+        <target state="x-user:translated" xml:lang="nl">E-mail leden</target>
+      </trans-unit>
+      <trans-unit id="55" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>User</source>
+        <target state="exact-match:translated" xml:lang="nl">Lid</target>
+      </trans-unit>
+      <trans-unit id="56" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Email</source>
+        <target state="exact-match:translated" xml:lang="nl">E-mail</target>
+      </trans-unit>
+      <trans-unit id="57" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Last login</source>
+        <target state="exact-match:translated" xml:lang="nl">Laatste login</target>
+      </trans-unit>
+      <trans-unit id="58" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Joined</source>
+        <target state="exact-match:translated" xml:lang="nl">Geregistreerd</target>
+      </trans-unit>
+      <trans-unit id="59" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Login as this user</source>
+        <target state="exact-match:translated" xml:lang="nl">Login als dit lid</target>
+      </trans-unit>
+      <trans-unit id="60" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Add User</source>
+        <target state="exact-match:translated" xml:lang="nl">Voeg lid toe</target>
+      </trans-unit>
+      <trans-unit id="61" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuw</target>
+      </trans-unit>
+      <trans-unit id="62" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Transaction Totals</source>
+        <target state="exact-match:translated" xml:lang="nl">Betalings Totalen</target>
+      </trans-unit>
+      <trans-unit id="63" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Total</source>
+        <target state="exact-match:translated" xml:lang="nl">Totaal</target>
+      </trans-unit>
+      <trans-unit id="64" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Add member</source>
+        <target state="exact-match:translated" xml:lang="nl">Voeg lid toe</target>
+      </trans-unit>
+      <trans-unit id="65" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>edit</source>
+        <target state="exact-match:translated" xml:lang="nl">wijzig</target>
+      </trans-unit>
+      <trans-unit id="66" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>deactivate</source>
+        <target state="exact-match:translated" xml:lang="nl">deactiveer</target>
+      </trans-unit>
+      <trans-unit id="67" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>activate</source>
+        <target state="exact-match:translated" xml:lang="nl">activeer</target>
+      </trans-unit>
+      <trans-unit id="68" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You have deleted your %type%: %description%</source>
+        <target state="exact-match:translated" xml:lang="nl">Je hebt jouw %type% verwijderd: %description%</target>
+      </trans-unit>
+      <trans-unit id="69" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Change offer or request</source>
+        <target state="exact-match:translated" xml:lang="nl">Verander vraag of aanbod</target>
+      </trans-unit>
+      <trans-unit id="70" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Back to list</source>
+        <target state="exact-match:translated" xml:lang="nl">Terug naar de lijst</target>
+      </trans-unit>
+      <trans-unit id="71" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Delete</source>
+        <target state="exact-match:translated" xml:lang="nl">Verwijder</target>
+      </trans-unit>
+      <trans-unit id="72" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Are you sure?</source>
+        <target state="exact-match:translated" xml:lang="nl">Weet je het zeker?</target>
+      </trans-unit>
+      <trans-unit id="73" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New offer or request</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuwe vraag of aanbod</target>
+      </trans-unit>
+      <trans-unit id="74" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>E-mail Member</source>
+        <target state="exact-match:translated" xml:lang="nl">E-mail lid</target>
+      </trans-unit>
+      <trans-unit id="75" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>%type% Details</source>
+        <target state="exact-match:translated" xml:lang="nl">%type% details</target>
+      </trans-unit>
+      <trans-unit id="76" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Member</source>
+        <target state="exact-match:translated" xml:lang="nl">Lid</target>
+      </trans-unit>
+      <trans-unit id="77" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Category</source>
+        <target state="exact-match:translated" xml:lang="nl">Categorie</target>
+      </trans-unit>
+      <trans-unit id="78" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Type</source>
+        <target state="exact-match:translated" xml:lang="nl">Type</target>
+      </trans-unit>
+      <trans-unit id="79" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Experience</source>
+        <target state="exact-match:translated" xml:lang="nl">Ervaring</target>
+      </trans-unit>
+      <trans-unit id="80" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Description</source>
+        <target state="exact-match:translated" xml:lang="nl">Beschrijving</target>
+      </trans-unit>
+      <trans-unit id="81" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Address</source>
+        <target state="exact-match:translated" xml:lang="nl">Adres</target>
+      </trans-unit>
+      <trans-unit id="82" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Zip Code</source>
+        <target state="exact-match:translated" xml:lang="nl">Postcode</target>
+      </trans-unit>
+      <trans-unit id="83" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>City</source>
+        <target state="exact-match:translated" xml:lang="nl">Stad</target>
+      </trans-unit>
+      <trans-unit id="84" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>%user%'s Offers &amp; Requests</source>
+        <target state="exact-match:translated" xml:lang="nl">%user%'s Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="85" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>%user% has no offers or requests</source>
+        <target state="x-user:translated" xml:lang="nl">%user% heeft geen vraag of aanbod</target>
+      </trans-unit>
+      <trans-unit id="86" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>view details</source>
+        <target state="exact-match:translated" xml:lang="nl">bekijk details</target>
+      </trans-unit>
+      <trans-unit id="87" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>All offers &amp; requests</source>
+        <target state="x-user:translated" xml:lang="nl">Alle vraag en aanbod</target>
+      </trans-unit>
+      <trans-unit id="88" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>No records found with the selected filters</source>
+        <target state="exact-match:translated" xml:lang="nl">Geen data gevonden met dit filter</target>
+      </trans-unit>
+      <trans-unit id="89" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Edit your Offers &amp; Requests</source>
+        <target state="x-user:translated" xml:lang="nl">Bewerk jouw Vraag en Aanbod</target>
+      </trans-unit>
+      <trans-unit id="90" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>edit %type%</source>
+        <target state="exact-match:translated" xml:lang="nl">bewerk %type%</target>
+      </trans-unit>
+      <trans-unit id="91" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You have confirmed your payment to %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Je hebt je betaling aan %user% bevestigd</target>
+      </trans-unit>
+      <trans-unit id="92" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You have deleted your reminder to %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Je hebt je herinnering aan %user% verwijderd</target>
+      </trans-unit>
+      <trans-unit id="93" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send</source>
+        <target state="exact-match:translated" xml:lang="nl">Verzend</target>
+      </trans-unit>
+      <trans-unit id="94" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Start Balance</source>
+        <target state="exact-match:translated" xml:lang="nl">Start Balans</target>
+      </trans-unit>
+      <trans-unit id="95" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Payed</source>
+        <target state="exact-match:translated" xml:lang="nl">Betaald</target>
+      </trans-unit>
+      <trans-unit id="96" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Received</source>
+        <target state="exact-match:translated" xml:lang="nl">Ontvangen</target>
+      </trans-unit>
+      <trans-unit id="97" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Reminders to accept</source>
+        <target state="exact-match:translated" xml:lang="nl">Te accepteren Herinneringen</target>
+      </trans-unit>
+      <trans-unit id="98" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Sent Reminders</source>
+        <target state="exact-match:translated" xml:lang="nl">Verzonden  Herinneringen</target>
+      </trans-unit>
+      <trans-unit id="99" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Contact %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Neem contact op met %user%</target>
+      </trans-unit>
+      <trans-unit id="100" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Transaction Coupon</source>
+        <target state="exact-match:translated" xml:lang="nl">Betalings Bon</target>
+      </trans-unit>
+      <trans-unit id="101" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Confirm</source>
+        <target state="exact-match:translated" xml:lang="nl">Accepteer</target>
+      </trans-unit>
+      <trans-unit id="102" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Email %user%</source>
+        <target state="x-user:translated" xml:lang="nl">E-mail %user%</target>
+      </trans-unit>
+      <trans-unit id="103" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Status</source>
+        <target state="exact-match:translated" xml:lang="nl">Status</target>
+      </trans-unit>
+      <trans-unit id="104" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>payment received</source>
+        <target state="exact-match:translated" xml:lang="nl">betaling ontvangen</target>
+      </trans-unit>
+      <trans-unit id="105" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>payment sent</source>
+        <target state="exact-match:translated" xml:lang="nl">betaling verzonden</target>
+      </trans-unit>
+      <trans-unit id="106" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>waiting for %user% to confirm reminder</source>
+        <target state="exact-match:translated" xml:lang="nl">wacht op %user% om deze herinnering te bevestigen</target>
+      </trans-unit>
+      <trans-unit id="107" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>you</source>
+        <target state="x-user:translated" xml:lang="nl">jou</target>
+      </trans-unit>
+      <trans-unit id="108" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>From</source>
+        <target state="exact-match:translated" xml:lang="nl">Van</target>
+      </trans-unit>
+      <trans-unit id="109" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>To</source>
+        <target state="exact-match:translated" xml:lang="nl">Aan</target>
+      </trans-unit>
+      <trans-unit id="110" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Amount</source>
+        <target state="exact-match:translated" xml:lang="nl">Bedrag</target>
+      </trans-unit>
+      <trans-unit id="111" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Date</source>
+        <target state="exact-match:translated" xml:lang="nl">Datum</target>
+      </trans-unit>
+      <trans-unit id="112" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>No transactions found.</source>
+        <target state="exact-match:translated" xml:lang="nl">Geen betalingen gevonden.</target>
+      </trans-unit>
+      <trans-unit id="113" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>%count% more</source>
+        <target state="exact-match:translated" xml:lang="nl">%count% meer</target>
+      </trans-unit>
+      <trans-unit id="114" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Reminder</source>
+        <target state="x-user:translated" xml:lang="nl">Herinnering</target>
+      </trans-unit>
+      <trans-unit id="115" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Change E-mail Address</source>
+        <target state="exact-match:translated" xml:lang="nl">Verander E-mail Adres</target>
+      </trans-unit>
+      <trans-unit id="116" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Personal Data</source>
+        <target state="exact-match:translated" xml:lang="nl">Persoonlijke Gegevens</target>
+      </trans-unit>
+      <trans-unit id="117" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>View Public Profile</source>
+        <target state="x-user:translated" xml:lang="nl">Bekijk Publiek Profiel</target>
+      </trans-unit>
+      <trans-unit id="118" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send e-mail</source>
+        <target state="exact-match:translated" xml:lang="nl">Verzend e-mail</target>
+      </trans-unit>
+      <trans-unit id="119" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Edit Offers &amp; Requests</source>
+        <target state="exact-match:translated" xml:lang="nl">Bewerk Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="120" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Edit Account Data</source>
+        <target state="exact-match:translated" xml:lang="nl">Bewerk Persoonlijke Gegevens</target>
+      </trans-unit>
+      <trans-unit id="121" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Edit Public Profile</source>
+        <target state="exact-match:translated" xml:lang="nl">Bekijk Publiek Profiel</target>
+      </trans-unit>
+      <trans-unit id="122" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>First Name</source>
+        <target state="exact-match:translated" xml:lang="nl">Voornaam</target>
+      </trans-unit>
+      <trans-unit id="123" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Last Name</source>
+        <target state="exact-match:translated" xml:lang="nl">Achternaam</target>
+      </trans-unit>
+      <trans-unit id="124" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Country</source>
+        <target state="exact-match:translated" xml:lang="nl">Land</target>
+      </trans-unit>
+      <trans-unit id="125" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Phone (Home)</source>
+        <target state="exact-match:translated" xml:lang="nl">Telefoon (Thuis)</target>
+      </trans-unit>
+      <trans-unit id="126" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Phone (Mobile)</source>
+        <target state="exact-match:translated" xml:lang="nl">Telefoon (Mobiel)</target>
+      </trans-unit>
+      <trans-unit id="127" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Phone (Work)</source>
+        <target state="exact-match:translated" xml:lang="nl">Telefoon (Kantoor)</target>
+      </trans-unit>
+      <trans-unit id="128" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Birth Date</source>
+        <target state="x-user:translated" xml:lang="nl">Geboortedatum</target>
+      </trans-unit>
+      <trans-unit id="129" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Language</source>
+        <target state="exact-match:translated" xml:lang="nl">Taal</target>
+      </trans-unit>
+      <trans-unit id="130" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>E-mail</source>
+        <target state="exact-match:translated" xml:lang="nl">E-mail</target>
+      </trans-unit>
+      <trans-unit id="131" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Password</source>
+        <target state="exact-match:translated" xml:lang="nl">Wachtwoord</target>
+      </trans-unit>
+      <trans-unit id="132" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Profile Link</source>
+        <target state="exact-match:translated" xml:lang="nl">Profiel Link</target>
+      </trans-unit>
+      <trans-unit id="133" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>view public profile</source>
+        <target state="exact-match:translated" xml:lang="nl">bekijk publiek profiel</target>
+      </trans-unit>
+      <trans-unit id="134" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Display Name</source>
+        <target state="exact-match:translated" xml:lang="nl">Scherm Naam</target>
+      </trans-unit>
+      <trans-unit id="135" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Personal Text</source>
+        <target state="exact-match:translated" xml:lang="nl">Persoonlijke Tekst</target>
+      </trans-unit>
+      <trans-unit id="136" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Avatar Image</source>
+        <target state="exact-match:translated" xml:lang="nl">Profiel Plaatje</target>
+      </trans-unit>
+      <trans-unit id="137" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Show e-mail?</source>
+        <target state="exact-match:translated" xml:lang="nl">Toon e-mail?</target>
+      </trans-unit>
+      <trans-unit id="138" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>yes</source>
+        <target state="exact-match:translated" xml:lang="nl">ja</target>
+      </trans-unit>
+      <trans-unit id="139" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>no</source>
+        <target state="exact-match:translated" xml:lang="nl">nee</target>
+      </trans-unit>
+      <trans-unit id="140" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Show phone?</source>
+        <target state="exact-match:translated" xml:lang="nl">Toon telefoon?</target>
+      </trans-unit>
+      <trans-unit id="141" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Show address?</source>
+        <target state="exact-match:translated" xml:lang="nl">Toon adres?</target>
+      </trans-unit>
+      <trans-unit id="142" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Show your age?</source>
+        <target state="exact-match:translated" xml:lang="nl">Toon jouw leeftijd?</target>
+      </trans-unit>
+      <trans-unit id="143" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Members List</source>
+        <target state="exact-match:translated" xml:lang="nl">Ledenlijst</target>
+      </trans-unit>
+      <trans-unit id="144" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Achternaam</source>
+        <target state="x-user:translated" xml:lang="nl">Achternaam</target>
+      </trans-unit>
+      <trans-unit id="145" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Login</source>
+        <target state="exact-match:translated" xml:lang="nl">Login</target>
+      </trans-unit>
+      <trans-unit id="146" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Profile of %user%</source>
+        <target state="exact-match:translated" xml:lang="nl">Profiel van %user%</target>
+      </trans-unit>
+      <trans-unit id="147" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Send E-mail</source>
+        <target state="exact-match:translated" xml:lang="nl">Verzend E-mail</target>
+      </trans-unit>
+      <trans-unit id="148" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Age</source>
+        <target state="exact-match:translated" xml:lang="nl">Leeftijd</target>
+      </trans-unit>
+      <trans-unit id="149" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Actions</source>
+        <target state="x-user:translated" xml:lang="nl">Acties</target>
+      </trans-unit>
+      <trans-unit id="150" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>View %user%'s offers &amp; requests</source>
+        <target state="x-user:translated" xml:lang="nl">Bekijk %user%'s Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="151" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>This message was sent by %user% through the LETSOnline system</source>
+        <target state="exact-match:translated" xml:lang="nl">Dit bericht was verzonden door %user% via het LETSOnline systeem</target>
+      </trans-unit>
+      <trans-unit id="152" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Required.</source>
+        <target state="exact-match:translated" xml:lang="nl">Dit veld is verplicht.</target>
+      </trans-unit>
+      <trans-unit id="153" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Invalid.</source>
+        <target state="exact-match:translated" xml:lang="nl">Dit veld is onjuist ingevuld.</target>
+      </trans-unit>
+      <trans-unit id="154" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Unexpected extra form field named "%field%".</source>
+        <target state="exact-match:translated" xml:lang="nl">Onbekend extra veld %field%.</target>
+      </trans-unit>
+      <trans-unit id="155" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+        <target state="exact-match:translated" xml:lang="nl">Dit formulier kan niet worden opgeslagen, waarschijnlijk omdat je een te groot bestand hebt geupload.</target>
+      </trans-unit>
+      <trans-unit id="156" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>CSRF attack detected.</source>
+        <target state="exact-match:translated" xml:lang="nl">Formulier beveiligingscontrole mislukt. Probeer opnieuw in te loggen.</target>
+      </trans-unit>
+      <trans-unit id="157" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source> csrf token</source>
+        <target state="exact-match:translated" xml:lang="nl">formulier beveiliging</target>
+      </trans-unit>
+      <trans-unit id="158" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>At least %min% values must be selected (%count% values selected).</source>
+        <target state="exact-match:translated" xml:lang="nl">Ten minste %min% dingen moeten geselecteerd zijn (nu %count% geselecteerd)</target>
+      </trans-unit>
+      <trans-unit id="159" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>At most %max% values must be selected (%count% values selected).</source>
+        <target state="exact-match:translated" xml:lang="nl">Maximaal %max% dingen moeten geselecteerd zijn (nu %count% geselecteerd)</target>
+      </trans-unit>
+      <trans-unit id="160" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>"%value%" is too long (%max_length% characters max).</source>
+        <target state="exact-match:translated" xml:lang="nl">"%value" is te lang (%max_length% tekens maximaal)</target>
+      </trans-unit>
+      <trans-unit id="161" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>"%value%" is too short (%min_length% characters min).</source>
+        <target state="exact-match:translated" xml:lang="nl">"%value" is te kort (%min_length% tekens minimaal)</target>
+      </trans-unit>
+      <trans-unit id="162" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>An object with the same "%column%" already exist.</source>
+        <target state="exact-match:translated" xml:lang="nl">Een object met dezelfde "%column%" bestaat al.</target>
+      </trans-unit>
+      <trans-unit id="163" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Id</source>
+        <target state="exact-match:translated" xml:lang="nl">Id</target>
+      </trans-unit>
+      <trans-unit id="164" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Slug</source>
+        <target state="exact-match:translated" xml:lang="nl">Verkorting</target>
+      </trans-unit>
+      <trans-unit id="165" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please specify the amount.</source>
+        <target state="exact-match:translated" xml:lang="nl">Type het bedrag.</target>
+      </trans-unit>
+      <trans-unit id="166" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Amount should be a number.</source>
+        <target state="exact-match:translated" xml:lang="nl">Het bedrag moet een (komma)getal zijn.</target>
+      </trans-unit>
+      <trans-unit id="167" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The amount must be above 0.</source>
+        <target state="exact-match:translated" xml:lang="nl">Het bedrag moet meer zijn dan 0.</target>
+      </trans-unit>
+      <trans-unit id="168" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please specify the transaction date.</source>
+        <target state="exact-match:translated" xml:lang="nl">Kies de datum van betaling.</target>
+      </trans-unit>
+      <trans-unit id="169" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You can not specify a date in the future.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je kunt geen datum in de toekomst kiezen.</target>
+      </trans-unit>
+      <trans-unit id="170" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Transaction should not be older than 1 year</source>
+        <target state="x-user:translated" xml:lang="nl">Betalingen zouden niet ouder moeten zijn dan 1 jaar</target>
+      </trans-unit>
+      <trans-unit id="171" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>This is an incorrect date.</source>
+        <target state="exact-match:translated" xml:lang="nl">De datum is incorrect. Moet in de vorm jjjj-mm-dd.</target>
+      </trans-unit>
+      <trans-unit id="172" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please specify a description of the event.</source>
+        <target state="x-user:translated" xml:lang="nl">Beschrijf waar deze bon voor is</target>
+      </trans-unit>
+      <trans-unit id="173" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Rein B</source>
+        <target state="exact-match:translated" xml:lang="nl">Rein B</target>
+      </trans-unit>
+      <trans-unit id="174" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Payment made to %s</source>
+        <target state="exact-match:translated" xml:lang="nl">Betaling verzonden aan %s</target>
+      </trans-unit>
+      <trans-unit id="175" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please specify who should receive this payment.</source>
+        <target state="exact-match:translated" xml:lang="nl">Kies aan wie je deze betaling wilt doen.</target>
+      </trans-unit>
+      <trans-unit id="176" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>When making a payment you are always the sender.</source>
+        <target state="x-user:translated" xml:lang="nl">Wanneer je een betaling doet ben je altijd de 'Van.</target>
+      </trans-unit>
+      <trans-unit id="177" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You can choose who you'd like to send this payment to.</source>
+        <target state="x-user:translated" xml:lang="nl">Je kunt kiezen wie 'Aan' wie je deze betaling wilt doen.</target>
+      </trans-unit>
+      <trans-unit id="178" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Reminder sent to %s</source>
+        <target state="exact-match:translated" xml:lang="nl">Herinnering gestuurd aan %s</target>
+      </trans-unit>
+      <trans-unit id="179" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please specify who this reminder should be sent to.</source>
+        <target state="exact-match:translated" xml:lang="nl">Kies aan wie je deze herinnering wilt sturen.</target>
+      </trans-unit>
+      <trans-unit id="180" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>You are reminding &lt;b&gt;this person&lt;/b&gt; to make a payment to you.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je schrijft een herinnering aan &lt;b&gt;deze persoon&lt;/b&gt; om jou te betalen.</target>
+      </trans-unit>
+      <trans-unit id="181" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>&lt;b&gt;You&lt;/b&gt; will receive the payment when the reminder is accepted.</source>
+        <target state="x-user:translated" xml:lang="nl">&lt;b&gt;Jij&lt;/b&gt; zult deze betaling ontvangen zodra de herinnering geaccepteerd wordt.</target>
+      </trans-unit>
+      <trans-unit id="182" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Deleted</source>
+        <target state="exact-match:translated" xml:lang="nl">Verwijderd</target>
+      </trans-unit>
+      <trans-unit id="183" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>User or email</source>
+        <target state="exact-match:translated" xml:lang="nl">Naam of e-mail</target>
+      </trans-unit>
+      <trans-unit id="184" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>All active users</source>
+        <target state="exact-match:translated" xml:lang="nl">Alle actieve gebruikers</target>
+      </trans-unit>
+      <trans-unit id="185" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>All deactivated users</source>
+        <target state="exact-match:translated" xml:lang="nl">Alle non-actieve gebruikers</target>
+      </trans-unit>
+      <trans-unit id="186" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>All users</source>
+        <target state="exact-match:translated" xml:lang="nl">Alle gebruikers</target>
+      </trans-unit>
+      <trans-unit id="187" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Show deactivated users</source>
+        <target state="exact-match:translated" xml:lang="nl">Bekijk gedeactiveerde leden</target>
+      </trans-unit>
+      <trans-unit id="188" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Filter by User or Email</source>
+        <target state="x-user:translated" xml:lang="nl">Filter lid of e-mail</target>
+      </trans-unit>
+      <trans-unit id="189" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Offers and Requests</source>
+        <target state="exact-match:translated" xml:lang="nl">Vraag &amp; Aanbod</target>
+      </trans-unit>
+      <trans-unit id="190" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Requests Only</source>
+        <target state="exact-match:translated" xml:lang="nl">Alleen Vraag</target>
+      </trans-unit>
+      <trans-unit id="191" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Offers Only</source>
+        <target state="exact-match:translated" xml:lang="nl">Alleen Aanbod</target>
+      </trans-unit>
+      <trans-unit id="192" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>All Categories</source>
+        <target state="exact-match:translated" xml:lang="nl">Alle Categorieën</target>
+      </trans-unit>
+      <trans-unit id="193" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Agriculture Garden</source>
+        <target state="exact-match:translated" xml:lang="nl">Landbouw Tuinieren</target>
+      </trans-unit>
+      <trans-unit id="194" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Animals</source>
+        <target state="exact-match:translated" xml:lang="nl">Dieren</target>
+      </trans-unit>
+      <trans-unit id="195" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Art</source>
+        <target state="exact-match:translated" xml:lang="nl">Kunst</target>
+      </trans-unit>
+      <trans-unit id="196" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Audio Video Photo</source>
+        <target state="x-user:translated" xml:lang="nl">Audio Video Foto</target>
+      </trans-unit>
+      <trans-unit id="197" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Books Magazines</source>
+        <target state="exact-match:translated" xml:lang="nl">Boeken Tijdschriften</target>
+      </trans-unit>
+      <trans-unit id="198" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Buisnesses Administration</source>
+        <target state="exact-match:translated" xml:lang="nl">Bedrijven Administratie</target>
+      </trans-unit>
+      <trans-unit id="199" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Children Baby-sitting</source>
+        <target state="x-user:translated" xml:lang="nl">Kinderen Oppas</target>
+      </trans-unit>
+      <trans-unit id="200" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Computers Electronics</source>
+        <target state="x-user:translated" xml:lang="nl">Computers Electronica</target>
+      </trans-unit>
+      <trans-unit id="201" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Don't do it yourself</source>
+        <target state="exact-match:translated" xml:lang="nl">Doe het niet zelf</target>
+      </trans-unit>
+      <trans-unit id="202" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Food</source>
+        <target state="exact-match:translated" xml:lang="nl">Voedsel</target>
+      </trans-unit>
+      <trans-unit id="203" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Health Care</source>
+        <target state="exact-match:translated" xml:lang="nl">Gezondheid Welzijn Verzorging</target>
+      </trans-unit>
+      <trans-unit id="204" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Holiday</source>
+        <target state="exact-match:translated" xml:lang="nl">Vakantie</target>
+      </trans-unit>
+      <trans-unit id="205" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Info Advice Lessons</source>
+        <target state="x-user:translated" xml:lang="nl">Info Advies Les</target>
+      </trans-unit>
+      <trans-unit id="206" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Lets Management</source>
+        <target state="exact-match:translated" xml:lang="nl">Ruilkring Helpen</target>
+      </trans-unit>
+      <trans-unit id="207" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Living Household Location</source>
+        <target state="x-user:translated" xml:lang="nl">Wonen Ruimte Huishouding</target>
+      </trans-unit>
+      <trans-unit id="208" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Music Song Dance</source>
+        <target state="exact-match:translated" xml:lang="nl">Muziek Zang Dans</target>
+      </trans-unit>
+      <trans-unit id="209" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Other</source>
+        <target state="x-user:translated" xml:lang="nl">Anders</target>
+      </trans-unit>
+      <trans-unit id="210" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Other for rent/sale</source>
+        <target state="x-user:new" xml:lang="nl">Divers te huur/koop</target>
+      </trans-unit>
+      <trans-unit id="211" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Other services</source>
+        <target state="exact-match:translated" xml:lang="nl">Diverse diensten</target>
+      </trans-unit>
+      <trans-unit id="212" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Recreation Party Sports</source>
+        <target state="exact-match:translated" xml:lang="nl">Recreatie Feest Sport</target>
+      </trans-unit>
+      <trans-unit id="213" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Shopping Clothing Fashion</source>
+        <target state="exact-match:translated" xml:lang="nl">Kleding Mode Winkelen</target>
+      </trans-unit>
+      <trans-unit id="214" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Transport Relocating</source>
+        <target state="exact-match:translated" xml:lang="nl">Vervoer Verhuizen</target>
+      </trans-unit>
+      <trans-unit id="215" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Filter by type or category:</source>
+        <target state="x-user:translated" xml:lang="nl">Filter type of categorie</target>
+      </trans-unit>
+      <trans-unit id="216" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Search user or description:</source>
+        <target state="x-user:translated" xml:lang="nl">Zoek gebruiker of beschrijving</target>
+      </trans-unit>
+      <trans-unit id="217" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Request</source>
+        <target state="exact-match:translated" xml:lang="nl">Vraag</target>
+      </trans-unit>
+      <trans-unit id="218" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Offer</source>
+        <target state="x-user:translated" xml:lang="nl">Aanbod</target>
+      </trans-unit>
+      <trans-unit id="219" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>N/A</source>
+        <target state="exact-match:translated" xml:lang="nl">nvt</target>
+      </trans-unit>
+      <trans-unit id="220" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Hobby</source>
+        <target state="exact-match:translated" xml:lang="nl">Hobby</target>
+      </trans-unit>
+      <trans-unit id="221" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Trained</source>
+        <target state="exact-match:translated" xml:lang="nl">Beoefend</target>
+      </trans-unit>
+      <trans-unit id="222" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Professional</source>
+        <target state="exact-match:translated" xml:lang="nl">Professioneel</target>
+      </trans-unit>
+      <trans-unit id="223" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please use a dash(-) instead of space( )</source>
+        <target state="x-user:translated" xml:lang="nl">Gebruik streepje (-) in plaats van spatie</target>
+      </trans-unit>
+      <trans-unit id="224" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your personal data has been updated.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je persoonlijke data is opgeslagen.</target>
+      </trans-unit>
+      <trans-unit id="225" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>"%value%" does not match the date format (%date_format%).</source>
+        <target state="exact-match:translated" xml:lang="nl">"%value%" is het onjuiste formaat (%date_format%)</target>
+      </trans-unit>
+      <trans-unit id="226" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The date must be before %max%.</source>
+        <target state="exact-match:translated" xml:lang="nl">De datum moet voor %max% zijn</target>
+      </trans-unit>
+      <trans-unit id="227" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The date must be after %min%.</source>
+        <target state="exact-match:translated" xml:lang="nl">De datum moet na %min% zijn</target>
+      </trans-unit>
+      <trans-unit id="228" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Birth date</source>
+        <target state="exact-match:translated" xml:lang="nl">Geboortedatum</target>
+      </trans-unit>
+      <trans-unit id="229" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your e-mail address has been changed.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je e-mail adres is veranderd</target>
+      </trans-unit>
+      <trans-unit id="230" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source></source>
+        <target state=":translated" xml:lang="nl"></target>
+      </trans-unit>
+      <trans-unit id="231" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Incorrect password</source>
+        <target state="exact-match:translated" xml:lang="nl">Ongeldig wachtwoord</target>
+      </trans-unit>
+      <trans-unit id="232" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The two e-mail addresses must be the same.</source>
+        <target state="exact-match:translated" xml:lang="nl">De twee e-mail adressen moeten hetzelfde zijn</target>
+      </trans-unit>
+      <trans-unit id="233" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Current Password</source>
+        <target state="exact-match:translated" xml:lang="nl">Huidige wachtwoord</target>
+      </trans-unit>
+      <trans-unit id="234" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New E-mail</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuwe E-mail</target>
+      </trans-unit>
+      <trans-unit id="235" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New E-mail (again)</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuwe E-mail (nogmaals)</target>
+      </trans-unit>
+      <trans-unit id="236" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please verify you are the owner of this account.</source>
+        <target state="x-user:translated" xml:lang="nl">Verifieer dat u de eigenaar bent van dit lidmaatschap</target>
+      </trans-unit>
+      <trans-unit id="237" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your e-mail has been sent</source>
+        <target state="exact-match:translated" xml:lang="nl">Je bericht is verzonden</target>
+      </trans-unit>
+      <trans-unit id="238" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Subject</source>
+        <target state="exact-match:translated" xml:lang="nl">Onderwerp</target>
+      </trans-unit>
+      <trans-unit id="239" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Message</source>
+        <target state="exact-match:translated" xml:lang="nl">Bericht</target>
+      </trans-unit>
+      <trans-unit id="240" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Login (username)</source>
+        <target state="exact-match:translated" xml:lang="nl">Login (gebruikersnaam)</target>
+      </trans-unit>
+      <trans-unit id="241" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Credentials</source>
+        <target state="exact-match:translated" xml:lang="nl">Machtigingen</target>
+      </trans-unit>
+      <trans-unit id="242" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Display name</source>
+        <target state="x-user:translated" xml:lang="nl">Scherm Naam</target>
+      </trans-unit>
+      <trans-unit id="243" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Manage Users</source>
+        <target state="exact-match:translated" xml:lang="nl">Beheer leden</target>
+      </trans-unit>
+      <trans-unit id="244" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>View Users</source>
+        <target state="exact-match:translated" xml:lang="nl">Bekijk leden</target>
+      </trans-unit>
+      <trans-unit id="245" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Admin users need credentials for different parts of the admin section. Check here where this specific admin user is allowed. If this is not an admin you can leave it empty.</source>
+        <target state="exact-match:translated" xml:lang="nl">Admins hebben machtigingen nodig voor verschillende secties. Kruis de machtigingen aan voor deze admin gebruiker. Laat alles leeg voor gewone gebruikers.</target>
+      </trans-unit>
+      <trans-unit id="246" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Password has been automatically generated.</source>
+        <target state="x-user:translated" xml:lang="nl">Het wachtwoord is automatisch gegenereerd.</target>
+      </trans-unit>
+      <trans-unit id="247" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>How other users recognize this user in the system. (max 30 characters, needs to be unique)</source>
+        <target state="x-user:translated" xml:lang="nl">Dit is hoe andere leden dit lid herkennen in het systeem. (maximaal 30 tekens en moet uniek zijn)</target>
+      </trans-unit>
+      <trans-unit id="248" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The username typed when logging in. Always lowercase, no spaces and needs to be unique.</source>
+        <target state="x-user:translated" xml:lang="nl">De gebruikersnaam die dit lid moet typen awnneer hij/zij inlogt. Altijd kleine letters, geen spaties en moet uniek zijn.</target>
+      </trans-unit>
+      <trans-unit id="249" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please fill in your user name.</source>
+        <target state="exact-match:translated" xml:lang="nl">Vul een gebruikersnaam in</target>
+      </trans-unit>
+      <trans-unit id="250" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Invalid login. Please use only letters and _ or -.</source>
+        <target state="exact-match:translated" xml:lang="nl">Ongeldige gebruikersnaam. Gebruik alleen letters, _ en -.</target>
+      </trans-unit>
+      <trans-unit id="251" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>No such user.</source>
+        <target state="exact-match:translated" xml:lang="nl">Deze gebruiker bestaat niet.</target>
+      </trans-unit>
+      <trans-unit id="252" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your account is suspended.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je bent geschorst. Neem contact op met de beheerders.</target>
+      </trans-unit>
+      <trans-unit id="253" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please fill in your password.</source>
+        <target state="exact-match:translated" xml:lang="nl">Vul je wachtwoord in.</target>
+      </trans-unit>
+      <trans-unit id="254" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your password has been changed.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je wachtwoord is veranderd.</target>
+      </trans-unit>
+      <trans-unit id="255" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Please provide a new password</source>
+        <target state="exact-match:translated" xml:lang="nl">Type een nieuw wachtwoord.</target>
+      </trans-unit>
+      <trans-unit id="256" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Type your old password</source>
+        <target state="exact-match:translated" xml:lang="nl">Type je oude wachtwoord.</target>
+      </trans-unit>
+      <trans-unit id="257" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The two passwords must be the same.</source>
+        <target state="exact-match:translated" xml:lang="nl">De twee wachtwoorden moeten hetzelfde zijn.</target>
+      </trans-unit>
+      <trans-unit id="258" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New Password</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuwe wachtwoord</target>
+      </trans-unit>
+      <trans-unit id="259" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>New Password (again)</source>
+        <target state="exact-match:translated" xml:lang="nl">Nieuwe wachtwoord (nogmaals)</target>
+      </trans-unit>
+      <trans-unit id="260" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Your profile has been updated.</source>
+        <target state="exact-match:translated" xml:lang="nl">Je profiel is opgeslagen.</target>
+      </trans-unit>
+      <trans-unit id="261" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>File is too large (maximum is %max_size% bytes).</source>
+        <target state="exact-match:translated" xml:lang="nl">Bestand is te groot (maximale groote is %max_size% byte).</target>
+      </trans-unit>
+      <trans-unit id="262" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Invalid mime type (%mime_type%).</source>
+        <target state="exact-match:translated" xml:lang="nl">Onbekend bestandstype (%mime_type%)</target>
+      </trans-unit>
+      <trans-unit id="263" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target state="exact-match:translated" xml:lang="nl">Het uploaden is mislukt.</target>
+      </trans-unit>
+      <trans-unit id="264" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Missing a temporary folder.</source>
+        <target state="exact-match:translated" xml:lang="nl">Uploaden mislukt: tijdelijke folder ontbreekt.</target>
+      </trans-unit>
+      <trans-unit id="265" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Failed to write file to disk.</source>
+        <target state="exact-match:translated" xml:lang="nl">Uploaden mislukt: fout bij schrijven.</target>
+      </trans-unit>
+      <trans-unit id="266" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>File upload stopped by extension.</source>
+        <target state="exact-match:translated" xml:lang="nl">Uploaden mislukt: tegengehouden.</target>
+      </trans-unit>
+      <trans-unit id="267" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Personal text</source>
+        <target state="exact-match:translated" xml:lang="nl">Persoonlijke tekst</target>
+      </trans-unit>
+      <trans-unit id="268" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Upload avatar</source>
+        <target state="exact-match:translated" xml:lang="nl">Upload profiel plaatje</target>
+      </trans-unit>
+      <trans-unit id="269" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>No</source>
+        <target state="exact-match:translated" xml:lang="nl">Nee</target>
+      </trans-unit>
+      <trans-unit id="270" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Yes</source>
+        <target state="exact-match:translated" xml:lang="nl">Ja</target>
+      </trans-unit>
+      <trans-unit id="271" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Image needs to a standard standing foto (4:3 relation)</source>
+        <target state="x-user:translated" xml:lang="nl">De foto moet de standaard afmetingen van een opstaande foto hebben (4:3).</target>
+      </trans-unit>
+      <trans-unit id="272" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>How other members will recognize you.</source>
+        <target state="exact-match:translated" xml:lang="nl">Hoe andere leden jou herkennen</target>
+      </trans-unit>
+      <trans-unit id="273" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Do you want other members to see your e-mail address?</source>
+        <target state="exact-match:translated" xml:lang="nl">Wil je dat andere leden jouw e-mail adres zien?</target>
+      </trans-unit>
+      <trans-unit id="274" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Do you want other members to see your phone number(s)?</source>
+        <target state="exact-match:translated" xml:lang="nl">Wil je dat andere leden jou telefoon nummer(s) zien?</target>
+      </trans-unit>
+      <trans-unit id="275" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Do you want other members to see your address?</source>
+        <target state="exact-match:translated" xml:lang="nl">Wil je dat andere leden je adres zien?</target>
+      </trans-unit>
+      <trans-unit id="276" translate="yes" reformat="yes" xml:space="default" approved="no">
+        <source>Do you want other members to see your age?</source>
+        <target state="exact-match:translated" xml:lang="nl">Wil je dat andere leden je leeftijd zien?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

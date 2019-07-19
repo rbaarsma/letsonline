@@ -1,0 +1,173 @@
+Offer:
+  actAs:
+    Timestampable: ~
+  columns:
+    project_id:   { type: integer, notnull: true }
+    user_id:      { type: integer, notnull: true }
+    category_id:  { type: integer, notnull: true }
+    type:         { type: string(255), notnull: true }
+    description:  { type: string(255) }
+    experience:   { type: string(255), notnull: true }
+  indexes:
+    project_id:
+      fields: [project_id]
+    user_index:
+      fields: [project_id,user_id]
+  relations:
+    User:
+      local: user_id
+      foreign: id
+    Category:
+      local: category_id
+      foreign: id
+
+Project:
+  actAs:
+    Sluggable:
+      fields: [name]
+  columns:
+    name:           { type: string(255), notnull: true }
+    email:          { type: string(255) }
+    currency_name:  { type: string(255) }
+    city:           { type: string(255) }
+    country:        { type: string(255) }
+    language:       { type: string(255) }
+    active:         { type: boolean, default: false, notnull: true }
+  indexes:
+    active_index:
+      fields: [active]
+
+# TODO display_name should be unique over project_id,display_name
+User:
+  actAs:
+    Timestampable: ~
+    Sluggable:
+      fields: [display_name]
+  columns:
+    project_id:     { type: integer, notnull: true }
+    no:             { type: integer, notnull: true }
+    login:          { type: string(255), notnull: true, unique: true }
+    language:       { type: string(255) }
+    session:        { type: string(255) }
+    credentials:    { type: array }
+    user_level:     { type: integer }
+    password:       { type: string(255) }
+    email:          { type: string(255) }
+    display_name:   { type: string(255) }
+    first_name:     { type: string(255) }
+    last_name:      { type: string(255) }
+    address_line:   { type: string(255) }
+    zip_code:       { type: string(255) }
+    city:           { type: string(255) }
+    country:        { type: string(255) }
+    phone_home:     { type: string(255) }
+    phone_mobile:   { type: string(255) }
+    phone_work:     { type: string(255) }
+    birth_date:     { type: date }
+    personal_text:  { type: string(4000) }
+    avatar:         { type: string(255) }
+    show_email:     { type: boolean, default: true, notnull: true }
+    show_phone:     { type: boolean, default: true, notnull: true }
+    show_address:   { type: boolean, default: false, notnull: true }
+    show_age:       { type: boolean, default: false, notnull: true }
+    logins:         { type: integer, notnull: true, default: 0 }
+    last_login:     { type: datetime }
+    old_lets:       { type: float }
+    total_payed:    { type: float }
+    total_received: { type: float }
+    deleted:        { type: boolean, default: false, notnull: true }
+    deleted_on:     { type: datetime }
+  indexes:
+    display_name:
+      fields: [project_id,display_name]
+      type: unique
+    no:
+      fields: [project_id,no]
+      type: unique
+    project_id:
+      fields: [project_id]
+    deleted_index:
+      fields: [project_id,deleted]
+  relations:
+    Project:
+      local: project_id
+      foreign: id
+    Offers:
+      class: Offer
+      local: id
+      foreign: user_id
+    SentCoupons:
+      class: Coupon
+      local: id
+      foreign: sender_id
+    ReceivedCoupons:
+      class: Coupon
+      local: id
+      foreign: receiver_id
+
+Coupon:
+  actAs:
+    Timestampable: ~
+  columns:
+    project_id:    { type: integer, notnull: true }
+    sender_id:     { type: integer, notnull: true }
+    receiver_id:   { type: integer, notnull: true }
+    amount:        { type: float }
+    date:          { type: datetime }
+    description:   { type: string(255) }
+    confirmed:     { type: boolean }
+  indexes:
+    receiver_index:
+      fields: [project_id,receiver_id,confirmed]
+    sender_index:
+      fields: [project_id,sender_id,confirmed]
+  relations:
+    Receiver:
+      class: User
+      local: receiver_id
+      foreign: id
+    Sender:
+      class: User
+      local: sender_id
+      foreign: id
+
+Category:
+  actAs:
+    Sluggable:
+      fields: [name]
+  columns:
+    name:       { type: string(255) }
+    project_id: { type: integer }
+  indexes:
+    project_id:
+      fields: [project_id]
+  relations:
+    Offers:
+      class: Offer
+      local: id
+      foreign: category_id
+
+Message:
+  actAs:
+    Timestampable: ~
+  columns:
+    project_id:    { type: integer, notnull: true }
+    sender_id:     { type: integer, notnull: false }
+    receiver_id:   { type: integer, notnull: false }
+    date:          { type: datetime }
+    subject:       { type: string(255) }
+    message:       { type: string(4000) }
+  indexes:
+    receiver_index:
+      fields: [project_id,receiver_id]
+    sender_index:
+      fields: [project_id,sender_id]
+  relations:
+    Receiver:
+      class: User
+      local: receiver_id
+      foreign: id
+    Sender:
+      class: User
+      local: sender_id
+      foreign: id

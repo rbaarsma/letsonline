@@ -1,0 +1,227 @@
+# Frontend Routing
+contact_us:
+  url: /contact
+  param: { module: front, action: contact }
+
+# transactions module
+transactions:
+  url: /transactions
+  param: { module: transactions, action: index }
+
+transactions_show:
+  class: sfDoctrineRoute
+  url: /transactions/show/:id
+  param: { module: transactions, action: show }
+  options: { model: Coupon, type: object }
+
+transactions_list:
+  url: /transactions/list
+  param: { module: transactions, action: list }
+
+transactions_delete:
+  class: sfDoctrineRoute
+  url: /transactions/delete/:id
+  param: { module: transactions, action: delete }
+  options: { model: Coupon, type: object }
+transactions_confirm:
+  class: sfDoctrineRoute
+  url: /transactions/confirm/:id
+  param: { module: transactions, action: confirm }
+  options: { model: Coupon, type: object }
+
+transactions_payment:
+  url: /transactions/payment
+  param: { module: transactions, action: payment }
+transactions_reminder:
+  url: /transactions/reminder
+  param: { module: transactions, action: reminder }
+
+transactions_create_payment:
+  url: /transactions/payment/create
+  param: { module: transactions, action: createPayment }
+  requirements:
+    sf_method: [POST,PUT]
+transactions_create_reminder:
+  url: /transactions/reminder/create
+  param: { module: transactions, action: createReminder }
+  requirements:
+    sf_method: [POST,PUT]
+
+transactions_ajax_list:
+  url: /transactions/_transactions
+  param: { module: transactions, action: list }
+
+# offers module
+offers:
+  url: /offers
+  param: { module: offers, action: index }
+
+offers_ajax_list:
+  url: /offers/_list
+  param: { module: offers, action: list }
+
+user_offers:
+  url: /offers/:user
+  param: { module: offers, action: userOffers }
+
+# couldn't get this to work with sfDoctrineRouteCollection
+personal_offers:
+  url: /user/offers/
+  param: {module: offers, action: personal }
+personal_offers_new:
+  url: /user/offers/new
+  param: {module: offers, action: new }
+personal_offers_create:
+  url: /user/offers/create
+  param: {module: offers, action: create }
+personal_offers_edit:
+  url: /user/offers/edit/:id
+  class: sfDoctrineRoute
+  param: {module: offers, action: edit }
+  options: {model: Offer, type: object }
+personal_offers_update:
+  url: /user/offers/update/:id
+  param: {module: offers, action: update }
+personal_offers_show:
+  url: /user/offers/:id
+  class: sfDoctrineRoute
+  param: {module: offers, action: show }
+  options: {model: Offer, type: object }
+personal_offers_delete:
+  url: /user/offers/delete/:id
+  class: sfDoctrineRoute
+  param: {module: offers, action: delete }
+  options: {model: Offer, type: object }
+
+# user module
+user_members:
+  url:     /members
+  param:   { module: user, action: list }
+user_members_album:
+  url: /members/album
+  param: { module: user, action: album }
+
+user_edit:
+  url: /user/edit
+  param:   { module: user, action: index }
+user_home:
+  url: /user
+  param:   { module: user, action: index }
+
+user_email:
+  url:      /email
+  param:    {module: user, action: email}
+
+user_email_slug:
+  class:    sfDoctrineRoute
+  url:      /email/:slug
+  param:    {module: user, action: email}
+  options:  {model: User, type: object }
+
+user_email_send:
+  url:      /email_send
+  param:    {module: user, action: sendEmail}
+
+user_ajax_edit:
+  url:    /user/edit/:form_type
+  param:  { module: user, action: ajaxEdit }
+
+user_update:
+  url:     /user/update/:form_type
+  param:   { module: user, action: update }
+
+user_login:
+  url:     /user/login
+  param:   { module: user, action: login }
+
+user_do_login:
+  url:     /user/dologin
+  param:   { module: user, action: doLogin }
+
+user_logout:
+  url:     /user/logout
+  param:   { module: user, action: logout }
+
+user_upload_avatar:
+  url:     /user/upload
+  param:   { module: user, action: uploadAvatar, sf_format: javascript }
+
+profile:
+  url:     /profile/:slug
+  class:   sfDoctrineRoute
+  param:   { module: user, action: profile }
+  options: { model: User, type: object }
+
+community:
+  url:     /community
+  param:   { module: community, action: index }
+
+# admin
+#admin_members:
+#  class: sfDoctrineRouteCollection
+#  options:
+#    model: User
+#    module: admin_members
+#    prefix_path: admin/members
+
+# alternative to bugged sfDoctrineRouteCollection
+admin_members:
+  url: /admin/members/
+  param: {module: admin_members, action: index }
+admin_members_new:
+  url: /admin/members/new
+  param: {module: admin_members, action: new }
+admin_members_create:
+  url: /admin/members/create
+  param: {module: admin_members, action: create }
+admin_members_edit:
+  url: /admin/members/edit/:id
+  param: {module: admin_members, action: edit }
+admin_members_update:
+  url: /admin/members/update/:id
+  param: {module: admin_members, action: update }
+
+admin_members_deactivate:
+  url: /admin/members/deactivate/:id
+  class: sfDoctrineRoute
+  param: { module: admin_members, action: deactivate }
+  options: { model: User, type: object }
+
+admin_members_activate:
+  url: /admin/members/activate/:id
+  class: sfDoctrineRoute
+  param: { module: admin_members, action: activate }
+  options: { model: User, type: object }
+
+admin_members_hack:
+  url: /admin/members/hack
+  param: { module: admin_members, action: hack }
+
+admin_members_addresslist:
+  url: /admin/members/addresslist
+  param: { module: admin_members, action: addresses }
+
+admin_members_transactions:
+  url: /admin/members/transactions
+  param: { module: admin_members, action: transactions }
+
+admin_members_email:
+  url: /admin/members/email
+  param: { module: admin_members, action: email }
+
+admin_members_find:
+  url: /admin/members/find
+  param: { module: admin_members, action: find }
+
+admin_members_ajax_list:
+  url: /admin/members/_list
+  param: { module: admin_members, action: index }
+
+#admin_members_reset_password:
+#  url: /admin/members/reset_password
+#  param: { module: admin_members, action: resetPassword }
+
+# homepage
+homepage:
+  url: /
+  param:   { module: transactions, action: index }

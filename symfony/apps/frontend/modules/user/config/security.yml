@@ -1,0 +1,11 @@
+login:
+  is_secure: false
+
+dologin:
+  is_secure: false
+
+forgot_password:
+  is_secure: false
+
+all:
+  is_secure: true

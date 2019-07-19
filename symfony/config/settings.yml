@@ -1,0 +1,47 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/04-Settings
+
+prod:
+  .settings:
+    no_script_name:         true
+    logging_enabled:        false
+
+dev:
+  .settings:
+    error_reporting:        <?php echo (E_ALL | E_STRICT)."\n" ?>
+    web_debug:              true
+    cache:                  false
+    no_script_name:         false
+    etag:                   false
+
+test:
+  .settings:
+    error_reporting:        <?php echo ((E_ALL | E_STRICT) ^ E_NOTICE)."\n" ?>
+    cache:                  false
+    web_debug:              false
+    no_script_name:         false
+    etag:                   false
+
+all:
+  .action:
+    login_application: frontend
+    login_module: user
+    login_action: login
+  .settings:
+    enabled_modules:      [default]
+    standard_helpers:     [Partial,Cache,I18N]
+
+    # Form security secret (CSRF protection)
+    csrf_secret:            2359209a974bf5e58767c3bd9336e64f71df7c83
+
+    # Output escaping settings
+    escaping_strategy:      true
+    escaping_method:        ESC_SPECIALCHARS
+
+    # Enable the database manager
+    use_database:           true
+
+    # language settings
+    default_culture: nl_NL
+    i18n: true
+    charset: utf-8
