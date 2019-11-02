@@ -21,9 +21,9 @@ dev:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn:      mysql:host=mysql6.mijnhostingpartner.nl;dbname=Baarsma_letsonline
-      username: Baarsma_lets
-      password: dUH@#s82KK
+      dsn:      mysql:host=letsonline-mysql;dbname=baarsma_letsonline
+      username: root
+      password: 123456
       
 
 all:

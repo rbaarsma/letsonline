@@ -1,0 +1,5 @@
+uploads/*
+aspnet-client
+cgi-bin
+symfony/log
+symfony/cache

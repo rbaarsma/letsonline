@@ -20,10 +20,7 @@ class UserChooseForm extends BaseForm
     }
     else
     {
-      $query = Doctrine_Core::getTable('User')->
-                createQuery('u')->
-                where('project_id = ?', $user->getObject()->getProjectId())->
-                andWhere('u.id != ?', $user->getId());
+      $query = Doctrine_Core::getTable('User')->getActiveNotMeQuery($user->getObject());
       $method = "__toString";
     }
 

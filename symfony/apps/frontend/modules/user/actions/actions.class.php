@@ -96,7 +96,19 @@ class userActions extends sfActions
     // send email
     $mailer = $this->getMailer();
     $from   = $this->getUser()->getObject()->getEmail();
-    $to     = Doctrine_Core::getTable('User')->find($id)->getEmail();
+
+    if ($id) {
+        $to = Doctrine_Core::getTable('User')->find($id)->getEmail();
+    } else {
+        $user = $this->getUser()->getObject();
+        $users = Doctrine_Core::getTable('User')->getActiveNotMe($user);
+        $to = array();
+        foreach ($users as $user) {
+            if ($user->getEmail())
+                $to[] = $user->getEmail();
+        }
+        $to = array_unique($to);
+    }
 
     // render email text from partial
     $email_text = $this->getPartial("user/email.txt", array(

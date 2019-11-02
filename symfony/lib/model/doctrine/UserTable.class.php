@@ -16,6 +16,16 @@ class UserTable extends Doctrine_Table
     return $this->getActiveQuery($user)->addWhere('id != ?', $user->getId())->execute();
   }
 
+  public function getActiveNotMe(User $user)
+  {
+      return $this->getActiveNotMeQuery($user)->execute();
+  }
+
+  public function getActiveNotMeQuery(User $user)
+  {
+      return $this->getActiveQuery($user)->andWhere('u.id != ?', $user->getId());
+  }
+
   public function getActive(User $user)
   {
     return $this->getActiveQuery($user)->execute();

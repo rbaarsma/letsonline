@@ -31,6 +31,9 @@ class UserEmailMemberForm extends UserChooseForm
       'text' => "Message"
     ));
 
+    $this->getWidget('user')->addOption('add_empty', ' === de hele ruilkring === ');
+    $this->getValidator('user')->addOption('required', false);
+
     // from first
     $this->getWidgetSchema()->setPositions(array("from","user","subject","text"));
 
