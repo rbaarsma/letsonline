@@ -1,0 +1,30 @@
+letsonline-apache:
+  build: docker/
+  ports:
+    - 80:80
+  volumes:
+    - .:/var/www/html
+  container_name: letsonline-apache
+  links:
+    - letsonline-mysql:db
+
+letsonline-mysql:
+  image: mysql/mysql-server:5.5
+  container_name: letsonline-mysql
+  ports:
+    - 33991:3306
+  volumes:
+    - ./docker/mysql:/var/lib/mysql
+  environment:
+    - MYSQL_ROOT_PASSWORD=123456
+
+letsonline-phpmyadmin:
+  image: phpmyadmin/phpmyadmin
+  ports:
+    - 32991:80
+  container_name: letsonline-phpmyadmin
+  links:
+    - letsonline-mysql:db
+  environment:
+    MYSQL_USERNAME: root
+    MYSQL_ROOT_PASSWORD: 123456
